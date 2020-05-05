@@ -1,0 +1,11 @@
+#Fichero de Parámetros del Camping
+#Tue May 05 16:45:20 CEST 2020
+T_precioDia=20
+B_precioDia_Adultos=20
+C_precioDia_RestoMeses=30
+T_desMas7dias=0.1
+B_precioDia_Ninos=0
+T_precioElecDia=1
+C_diasEstanciaMin=10
+B_porcRecargo=0.2
+C_precioDia_Agosto=40
